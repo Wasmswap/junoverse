@@ -1,0 +1,21 @@
+{
+  "workspaces": ["packages/*"],
+  "name": "wasmverse",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/Wasmswap/wasmverse",
+  "author": "sashimi36 <sashimion5@protonemail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "build": "lerna run build",
+    "start": "lerna run start --stream"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "@wasmverse/arrakis": "0.1.0"
+  }
+}
