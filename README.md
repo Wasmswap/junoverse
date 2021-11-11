@@ -1,1 +1,1 @@
-# wasmverse
+# Junoverse

@@ -1,10 +1,9 @@
 {
   "workspaces": ["packages/*"],
-  "name": "wasmverse",
+  "name": "@junoverse",
   "version": "0.1.0",
   "main": "index.js",
-  "repository": "https://github.com/Wasmswap/wasmverse",
-  "author": "sashimi36 <sashimion5@protonemail.com>",
+  "repository": "https://github.com/Wasmswap/junoverse",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -16,6 +15,6 @@
     "lerna": "^4.0.0"
   },
   "dependencies": {
-    "@wasmverse/arrakis": "0.1.0"
+    "@junoverse/blocks": "0.1.0"
   }
 }

@@ -1,10 +1,10 @@
 {
-  "name": "@wasmverse/arrakis",
+  "name": "@junoverse/blocks",
   "version": "0.1.0",
-  "description": "Wasmverse UI library",
+  "description": "Junoverse UI library",
   "author": "sashimi36",
   "license": "MIT",
-  "repository": "wasmswap/wasmverse",
+  "repository": "wasmswap/junoverse",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
