@@ -1,6 +1,6 @@
 {
   "workspaces": ["packages/*"],
-  "name": "@junoverse",
+  "name": "junoverse",
   "version": "0.1.0",
   "main": "index.js",
   "repository": "https://github.com/Wasmswap/junoverse",
